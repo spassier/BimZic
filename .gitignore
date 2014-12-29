@@ -1,0 +1,16 @@
+# C# project
+*.aps
+*.vcxproj
+*.usr
+*.filters
+*.db
+*.ico
+
+# Build and IDE specific files and directories 
+Debug/
+Release/
+BimZic/Debug/
+BimZic/Release/
+*.suo
+*.sln
+*.exe
